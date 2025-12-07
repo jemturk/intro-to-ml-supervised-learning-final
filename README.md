@@ -43,4 +43,5 @@ Heart Disease Dataset from UC Irvine (Machine Learning Repository).
 Heart Disease [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
 
 #### AI Help with Project Planing
-*   Google. (2025). *Gemini* [Large language model]. gemini.google.com
+* Google. (2025). *Gemini* [Large language model]. gemini.google.com
+* OpenAI. (2025). ChatGPT (GPT-5.1) [Large language model]. https://chat.openai.com/
