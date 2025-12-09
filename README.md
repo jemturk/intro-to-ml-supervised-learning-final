@@ -22,6 +22,10 @@ Binary classification
 ### Data
 Heart Disease Dataset from UC Irvine (Machine Learning Repository).
 
+Data Size: 13 features, 1 target, 303 instances
+
+![img_2.png](img_2.png)
+
 #### Additional Info About the Data (from UC Irvine Website)
 
 4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach
