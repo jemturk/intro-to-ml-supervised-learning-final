@@ -36,6 +36,15 @@ Heart Disease Dataset from UC Irvine (Machine Learning Repository).
 #### Features
 ![img_1.png](img_1.png)
 
+#### Model Evaluation Metrics
+* Accuracy
+* Precision
+* Recall
+* ROC AUC
+
+#### Results and Conclusion
+
+All comments, assumptions, and conclusions are in the Jupyter Notebook, either as comments or in the markdown cells.
 
 ### References
 #### Dataset
